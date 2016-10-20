@@ -1,2 +1,4 @@
 - name: laze RS
   url: https://github.com/skade/lazers
+  irc_channel: "#rust"
+  people: [skade]
