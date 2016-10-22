@@ -51,9 +51,9 @@ title: Blogging Like a Hacker
         <ul>
         {% for location in site.data.locations %}
           <li>
-            <a href="{{ location.location }}">
+            {% if location.location %}<a href="{{ location.location }}">{% endif %}
               {{ location.name }}
-            </a>
+            {% if location.location %}</a>{% endif %}
           </li>
         {% endfor %}
         </ul>
@@ -86,6 +86,9 @@ title: Blogging Like a Hacker
         </ul>
         </p>
 
+        <h2>Code of Conduct</h2>
+
+        <p>The <a href="https://www.rust-lang.org/en-US/conduct.html">Rust Code of Conduct</a> applies to this event.</p>
       </section>
     </div>
 
