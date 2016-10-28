@@ -2,3 +2,5 @@
   url: https://github.com/skade/lazers
   irc_channel: "#rust"
   people: [skade]
+- name: semantic-rs
+  url: https://github.com/semantic-rs/semantic-rs
