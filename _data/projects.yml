@@ -4,5 +4,9 @@
   people: [skade]
 - name: semantic-rs
   url: https://github.com/semantic-rs/semantic-rs
+- name: liquid-rust
+  url: https://github.com/cobalt-org/liquid-rust
+- name: Cobalt
+  url: https://github.com/cobalt-org/cobalt.rs
 - name: Way Cooler
   url: https://github.com/Immington-Industries/way-cooler
