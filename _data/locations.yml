@@ -4,3 +4,7 @@
   location: http://osm.org/go/0BPIiU9l1?node=2883451098
 - name: Rust Cologne
   location: http://osm.org/go/0GC9nD1u_?node=1446603282
+- name: Progressbar Bratislava
+  location: https://www.progressbar.sk/en/calendar/novemb-rs
+- name: Rust Vilnius
+  location: https://www.meetup.com/Rust-in-Vilnius/events/234293479/

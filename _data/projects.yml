@@ -12,3 +12,5 @@
   url: https://github.com/Immington-Industries/way-cooler
 - name: SUPER Android Analyzer
   url: https://github.com/SUPERAndroidAnalyzer/super
+- name: Better Embedded support
+  url: https://github.com/rust-community/novemb.rs/issues/4
