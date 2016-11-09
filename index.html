@@ -63,6 +63,19 @@ title: novemb.rs Code Sprint
           </li>
         {% endfor %}
         </ul>
+		
+        <h2>Online locations</h2>
+        <p>If you would like to provide an additional online meeting ground, please
+          file an issue <a href="https://github.com/rust-community/novemb.rs/issues/new?title=Online%20venue">here</a>.</p>
+        <ul>
+        {% for location in site.data.online_locations %}
+          <li>
+            {% if location.location %}<a href="{{ location.location }}">{% endif %}
+              {{ location.name }}
+            {% if location.location %}</a>{% endif %}
+          </li>
+        {% endfor %}
+        </ul>
 
         <h2>Projects</h2>
         <p>If your project would like to participate, or you have an idea for a new one, please file an issue <a href="https://github.com/rust-community/novemb.rs/issues/new?title=Project%20idea">here</a>.</p>
