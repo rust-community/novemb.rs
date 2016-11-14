@@ -4,6 +4,8 @@
   location: http://osm.org/go/0BPIiU9l1?node=2883451098
 - name: Rust Cologne
   location: http://osm.org/go/0GC9nD1u_?node=1446603282
+  more: "Open Saturday/Sunday 12pm-10pm"
+  event_link: https://www.meetup.com/RustCologne/events/235374218/
 - name: Progressbar Bratislava
   location: https://www.progressbar.sk/en/calendar/novemb-rs
 - name: Rust Vilnius
