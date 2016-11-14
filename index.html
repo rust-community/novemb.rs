@@ -63,10 +63,18 @@ title: novemb.rs Code Sprint
             {% if location.location %}<a href="{{ location.location }}">{% endif %}
               {{ location.name }}
             {% if location.location %}</a>{% endif %}
+          {% if location.more %}
+          <br>
+          <span>
+            {{ location.more }}{% if location.event_link %},
+            <a href="{{ location.event_link }}">Event</a>
+            {% endif %}
+          </span>
+          {% endif %}
           </li>
         {% endfor %}
         </ul>
-		
+
         <h2>Online locations</h2>
         <p>If you would like to provide an additional online meeting ground, please
           file an issue <a href="https://github.com/rust-community/novemb.rs/issues/new?title=Online%20venue">here</a>.</p>
