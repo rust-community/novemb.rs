@@ -1,7 +1,7 @@
 - name: Mozilla Berlin
   location: http://www.meetup.com/Rust-Berlin/events/235438270/
-- name: Rust@Paris
-  more: "Space to be announced soon"
+- name: Mozilla Paris @ Snips AI Paris
+  location: "https://www.google.de/maps/place/Snips/@48.8707164,2.3381513,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e3c08ece31b:0x113718a6cb566862!8m2!3d48.8707129!4d2.3403453"
 - name: Rust Cologne
   location: http://osm.org/go/0GC9nD1u_?node=1446603282
   more: "Open Saturday/Sunday 12pm-10pm"
