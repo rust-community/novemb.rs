@@ -13,7 +13,9 @@
   location: https://www.progressbar.sk/en/calendar/novemb-rs
   more: "Open Saturday 9am-10pm, Sunday 9am-9pm"
 - name: Rust Vilnius
-  location: https://www.meetup.com/Rust-in-Vilnius/events/234293479/
+  location: http://osm.org/go/0lP7rEpMZ?m=
+  event_link: https://www.meetup.com/Rust-in-Vilnius/events/234293479/
+  more: "7th floor, Vinted HQ. Open Saturday 1pm-9pm, Sunday 11am-6pm"
 - name: Rust Tübingen
   location: http://osm.org/go/0DkqB3Rd1?m=
   more: "Room: 227, first floor (Erdgeschoss)"
