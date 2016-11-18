@@ -20,3 +20,6 @@
   more: "Grab a ticket"
 - name: Rust@Entropia, Karlsruhe
   location: "http://www.openstreetmap.org/search?query=karlsruhe#map=19/49.00668/8.40738"
+- name: Cambridge Consultants, Cambridge, UK
+  location: "http://www.openstreetmap.org/?mlat=52.23235&mlon=0.14390#map=19/52.23235/0.14390"
+  more: "Open Saturday 10am-4pm. Please contact novembrs@thejpster.org.uk to book before arriving as we need to print you a badge."
